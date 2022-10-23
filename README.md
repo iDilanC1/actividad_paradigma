@@ -89,14 +89,6 @@ integrados con el JDK.
     }
 
 
-
-
-
-*Sobre escritura o polimorfismo* falta
-
-    - A partir de una clase que esta a su vez tengan clases hijas que comparten atributos en común
-
-
 ## 4) En las Clases, Métodos y Atributos, ¿ Para qué sirve el modificador Final ?
 
 - Es una palabra reservada que sirve como modificador de atributos, métodos y clases.
